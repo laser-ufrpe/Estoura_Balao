@@ -4,17 +4,17 @@ O Estoura Balão é um projeto de robótica que consiste na construção de um c
 
 O projeto integra programação, eletrônica e fabricação digital, utilizando motores DC, comunicação via Bluetooth, impressão 3D e peças produzidas em MDF.
 
-## Projeto
+### Projeto
 <img width="1600" height="900" alt="estoura_balao" src="https://github.com/user-attachments/assets/802abea7-eaa4-4c36-9874-dbb115a028b2" />
 
-## Materiais
-### Eletrônica
+### Materiais
+#### Eletrônica
 - 1x ESP32
 - 2x Motores DC 3–6V
 - 1x Ponte H L298N
 - Baterias
 - Jumpers para conexão dos componentes
-### Estrutura
+#### Estrutura
 - 1x Chassi de MDF
 - 4x Suportes de MDF para os motores — 2 para cada lado
 - 2x Rodas impressas em 3D
