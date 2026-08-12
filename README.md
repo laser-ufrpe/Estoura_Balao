@@ -1,7 +1,27 @@
 # Estoura Balão
 ## Sobre o projeto
-O Estoura Balão é um projeto de robótica desenvolvido com o objetivo de construir um carrinho controlado por um ESP32, com uma proposta lúdica e interativa, capaz de se movimentar em diferentes direções e estourar balões utilizando um palito fixado na parte frontal. A proposta consiste em utilizar dois carrinhos em uma disputa, na qual os participantes devem controlar seus veículos para estourar os balões do adversário.
+O Estoura Balão é um projeto de robótica que consiste na construção de um carrinho controlado por um ESP32, desenvolvido com uma proposta lúdica e interativa. O objetivo é promover uma disputa entre dois carrinhos, em que os participantes devem controlar seus veículos para estourar os balões do adversário.
 
-O projeto combina programação, eletrônica e fabricação de peças, utilizando motores DC, ponte H, ESP32 e peças produzidas por impressão 3D e MDF.
+O projeto integra programação, eletrônica e fabricação digital, utilizando motores DC, comunicação via Bluetooth, impressão 3D e peças produzidas em MDF.
 
-O carrinho pode ser controlado remotamente via Bluetooth por meio de comandos enviados ao ESP32, permitindo movimentá-lo para frente, para trás, para a direita, para esquerda ou deixá-lo parado. 
+## Projeto
+<img width="1600" height="900" alt="estoura_balao" src="https://github.com/user-attachments/assets/802abea7-eaa4-4c36-9874-dbb115a028b2" />
+
+## Materiais
+### Eletrônica
+- 1x ESP32
+- 2x Motores DC 3–6V
+- 1x Ponte H L298N
+- Baterias
+- Jumpers para conexão dos componentes
+### Estrutura
+- 1x Chassi de MDF
+- 4x Suportes de MDF para os motores — 2 para cada lado
+- 2x Rodas impressas em 3D
+- 2x O-rings de borracha para as rodas
+- 1x Suporte impresso em 3D para o palito
+- 1x Palito
+- Parafusos e porcas para fixação dos componentes
+
+
+
