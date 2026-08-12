@@ -3,7 +3,7 @@ O Estoura Balão é um projeto de robótica que consiste na construção de um c
 
 O projeto integra conceitos de programação, eletrônica e fabricação digital, utilizando motores DC, comunicação via Bluetooth, impressão 3D e peças produzidas em MDF.
 
-## 📸 Protótipo do carrinho
+## Protótipo do carrinho
 <img width="1600" height="900" alt="Estoura Balão" src="https://github.com/user-attachments/assets/802abea7-eaa4-4c36-9874-dbb115a028b2" />
 
 ## Materiais
